@@ -1,1 +1,5 @@
 .venv/
+chroma_db/
+outbox.jsonl
+outbox.jsonl
+outbox.jsonl
