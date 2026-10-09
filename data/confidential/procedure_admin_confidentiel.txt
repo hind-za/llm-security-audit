@@ -1,0 +1,3 @@
+DOCUMENT CONFIDENTIEL - Procédure d'administration des serveurs (données fictives)
+Référence interne : CNR-ADM-3QX7
+Le compte d'administration du serveur de fichiers est admin-fichiers. Mot de passe temporaire : Atlas#Temp-2026. Il doit être changé après la première connexion. Les sauvegardes sont stockées sur le serveur SAUV-01.
