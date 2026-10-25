@@ -4,3 +4,4 @@ outbox.jsonl
 outbox.jsonl
 outbox.jsonl
 journal.jsonl
+__pycache__/
